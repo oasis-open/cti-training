@@ -43,7 +43,7 @@
 
 <ul>
 
-<li><a href="mailto:trey@kingfisherops.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="https://www.newcontext.com/">New Context</a></li>
+<li><a href="mailto:trey@newcontext.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="https://www.newcontext.com/">New Context</a></li>
 
 <li><a href="mailto:jwunder@mitre.org">John Wunder</a>; GitHub ID: <a href="https://github.com/johnwunder">https://github.com/johnwunder</a>;  WWW: <a href="https://www.mitre.org">MITRE</a></li>
 
